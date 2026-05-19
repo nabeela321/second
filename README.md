@@ -1,3 +1,4 @@
+
 # IISPPR Academy — Premium Redesign v2
 
 > **Internship Assignment** — Full redesign of iisppracademy.com
@@ -116,3 +117,7 @@ Inspired by Linear, Vercel, and Framer — deep dark navy base, emerald green pr
 | Stats counter | Counts from 0 when visible |
 | Hero card | Floating with CSS keyframe animation |
 | Floating badges | Gentle vertical float animation |
+=======
+# second
+
+
